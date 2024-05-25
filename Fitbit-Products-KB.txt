@@ -1,0 +1,864 @@
+Products
+
+SMARTWATCHES 
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+*Sense 2
+
+Website page: https://www.fitbit.com/global/us/products/smartwatches/sense2?sku=521BKGB 
+Price: $249.95
+Sub description: Learn to manage stress & sleep better with our most advanced health & fitness smartwatch.
+Colors:
+Shadow Grey / Graphite Aluminum
+Lunar White / Platinum Aluminum
+Blue Mist / Soft Gold Aluminum
+
+What's included:
+Fitbit Sense 2
+Classic band (small & large)
+Charging cable
+Sensors & Components
+Multi-path optical heart rate sensor
+Electrical sensor to measure skin conductance (cEDA) for body response tracking
+Multipurpose electrical sensors compatible with ECG app & EDA app. ECG not available in all countries.
+Red and infrared sensors for oxygen saturation (SpO2) monitoring
+Gyroscope
+Altimeter
+3-axis accelerometer
+Skin temperature sensor
+Ambient light sensor
+WiFi (deactivated, cannot be turned on)
+NFC
+Built-in GPS + GLONASS
+Vibration motor
+Speaker (75dB SPL @10cm)
+Microphone
+Battery & Power
+Battery life of 6+ days. Battery life and charge cycles vary with use, settings and other factors; actual results will vary. Use of the always-on display, SpO2 and the cEDA sensor will require more frequent charging. Up to 5 hours with continuous GPS. We recommend charging your tracker every few days to ensure you are always tracking.
+Battery type: Lithium-polymer
+Charge time (0-100%): Two hours
+Charge 12 minutes to get one day of battery life
+Radio transceiver: Bluetooth® 5.0
+Memory
+Saves 7 days of detailed motion data, minute by minute
+Saves daily totals for the last 30 days
+Stores heart rate data at one-second intervals during exercise tracking and at five-second intervals all other times
+Water Resistance
+Water resistant to 50m. After getting the band wet, we recommend drying the band because, as with any wearable device, it's best for your skin if the band is clean and dry. Learn more.
+
+Care
+Give your wrist a rest by taking the band off every now and then. If the band gets wet or you sweat in it, remove and completely dry the band before putting it back on. Learn more.
+
+Materials
+This watch includes a band made of a flexible material similar to that used in many sports watches, as well as an aluminum watch case and buckle.
+
+Heart Rate
+Like all heart rate tracking technologies, accuracy is affected by physiology, location of device and different movements.
+
+Environmental Requirements
+Operating temperature: -14° to 113°F
+Syncing
+Google account will be required. See fitbit.com/devices.
+
+The Fitbit app is compatible with most popular phones. To set up and use your Fitbit products and services, you must install the Fitbit app on a compatible device running one of the following operating systems:
+
+Apple iOS 15 or higher.
+Android OS 10 or higher. See additional tips for Android phones here.
+Syncing range: Up to 30ft
+
+Certain features like smartphone notifications may require Android 10+. Check your device compatibility.
+Syncing requires Bluetooth® LE, an internet connection and location permissions granted on the phone
+Band Size
+Small: Fits wrist 5.1" - 7" in circumference
+Large: Fits wrist 6.5" - 8.6" in circumference
+
+Dimensions
+1.5" l x 1.5" w x 0.45" h
+Reasons to love Sense 2
+
+Stress Management
+Understand stress, then minimize its effects
+Better sleep. Improved mood. More energy. Managing stress with Sense 2 can help you get there. Identify patterns of stress with all-day body-response tracking and smart notifications to remind you to reflect on your emotions. Try new ways of managing stress with guided breathing, exercise, meditations and more.
+
+Sleep
+Better understand sleep through science
+Sense 2 helps you get the ZZZs of your dreams. Sleep Profile* breaks down your sleep data each month and pinpoints how you can improve your sleep based on 10 key sleep metrics. Check your Sleep Score to learn about the quality of your previous night's sleep, and get a breakdown of time in light, deep & REM sleep with Premium.
+
+Health Metrics
+Tune in to your body
+Sense 2 helps illuminate changes in your wellness. Check your Health Metrics dashboard to see heart rate variability, skin temperature variation, SpO2 and more. You can also use 90 days of health trends to uncover changes to your well-being.***
+
+Heart Health§
+Everything starts with heart
+Use the ECG app for on-demand atrial fibrillation assessment or turn on irregular heart rhythm notifications to assess your heart while you're still or sleeping.§ Heart-rate tracking surfaces insights from your sleep, stress, activity and more while high & low heart rate notifications keep a close eye on your heart rate.
+
+Fitness
+Work out smarter
+Do what you love, just get more out of it. Daily Readiness Score* shows what level of workout your body is ready for, including an Active Zone Minutes goal and Premium workout recommendation. Track 40+ exercise modes and use built-in GPS◆ for real-time pace and distance—even in up to 50 meters of water.
+Google Smarts
+The apps you love are here
+Reach your destinations easier with turn-by-turn directions from Google Maps and make speedy, secure purchases from your wrist with Google Wallet.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+*Google Pixel Watch 2
+Website page: https://www.fitbit.com/global/us/products/smartwatches/sense2?sku=521BKGB 
+
+Sub Description: Meet the Google Pixel Watch 2. It’s engineered by Google with the best of Fitbit for personalized help and insights.¹ So you can be healthy, safe and productive.
+
+Designed exclusively for Android
+Includes 6 month Premium membership†
+
+
+Colors:
+Bay / Polished Silver Aluminum
+Porcelain / Polished Silver Aluminum
+Hazel / Champagne Gold Aluminum
+Obsidian / Matte Black Aluminum
+
+Choose your connectivity
+
+Bluetooth® / Wi-Fi
+Keep phone close to manage texts & calls
+$349.99
+
+4G LTE + Bluetooth® / Wi-Fi
+Stay fully connected without your phone nearby²
+$399.99
+
+What’s Included
+Google Pixel Watch 2
+Active band (small & large)
+USB-C® Fast Charging Cable
+Sensors & Components
+Compass
+Red and infrared sensors for oxygen saturation (SpO2) monitoring
+Multipurpose electrical sensors compatible with ECG app
+Multi-path optical heart rate sensor
+3-axis accelerometer
+Gyroscope
+Ambient light sensor
+Electrical sensor to measure skin conductance (cEDA) for body response tracking
+Skin temperature sensor
+Barometer
+Magnetometer
+Battery & Power
+All-day battery life. Battery life and charge cycles vary with use, settings and other factors; actual results will vary.
+Battery type: Lithium-ion
+Charge time (0-50%): 30 minutes
+Charge time (0-80%): 45 minutes
+Charge time (0-100%): 80 minutes
+Radio transceiver: Bluetooth® 5.0
+Memory
+Saves 7 days of detailed motion data, minute by minute
+Saves daily totals for the last 30 days
+Stores heart rate data at one-second intervals
+2GB RAM
+32GB
+Water Resistance
+Water resistant to 50m (5ATM).
+
+
+Google Pixel Watch 2 is designed to comply with water protection ratings of 5 ATM under ISO standard 22810:2010 when manufactured, but it is not waterproof. Water resistance is not a permanent condition and decreases or is lost over time due to normal wear and tear, repair, disassembly or damage. Dropping your Google Pixel Watch 2 may result in loss of water resistance. Google Pixel Watch 2 is designed to be used in shallow water and should not be used for activities involving high-velocity or high-temperature water. Some accessory bands are not water-resistant. See here for details.
+
+Care
+See wear and care instructions here.
+
+Materials
+The Google Pixel Watch 2 housing is made with 100% recycled aluminum. The Google Pixel Watch 2 active band is made of fluoroelastomer with soft-touch coating and fastens with a stainless steel clasp and lugs. Give your wrist a rest by taking the watch off every now and then.
+
+Heart Rate
+Like all heart rate tracking technologies, accuracy is affected by physiology, location of device and different movements.
+
+Environmental Requirements
+Operating temperature: 32° to 95°F
+Store watch between -4° and 113°F. Don't expose to temperatures above 113°F as this may damage it, overheat the battery or pose a risk of fire.
+Compatibility
+To set up and use your Google Pixel Watch 2, you must have a Google account. Install the Google Pixel Watch app on a compatible device running Android 9 or newer. Some watch features may also require a Fitbit account and mobile app.
+
+Requires Android 9+
+Syncing range: Up to 30ft
+Syncing requires Bluetooth® 5.0 or internet connection.
+See additional tips for Android phones and tablets here.
+Syncing
+To set up and use your Google Pixel Watch 2, you must have a Google account. Install the Google Pixel Watch app on a compatible device running Android 9 or newer. Some watch features may also require a Fitbit account and mobile app.
+
+See additional tips for Android phones and tablets here.
+The Bluetooth® word mark is a registered trademark owned by the Bluetooth SIG, Inc.
+
+Maximum battery life is approximate and is based on testing using pre-production hardware and software. Charging times are approximate. Use of certain features will decrease battery life. Battery life depends on features enabled, usage, environment and many other factors. Actual battery life may be lower.
+
+ 
+
+Syncing range: Up to 30ft
+
+Requires Android 9+
+Syncing requires Bluetooth® 5.0 or internet connection.
+4G LTE and UMTS
+ 
+Band Size
+Both small and large sizes included in box.
+
+Small
+Fits wrist 5.1" - 6.9" in circumference
+
+Large
+Fits wrist 6.5" - 8.3" in circumference
+
+Dimensions
+1.6" l x .48" h
+Google Productivity
+Manage your life, even on the go
+Get things done right from your watch. Manage events in Calendar, view and respond to messages in Gmail, get hands-free help from Google Assistant, and more.
+
+24 Hour Battery
+All-day battery
+Get 24 hours of battery with always-on display so you can wear for a full day without worry. Plus, a quick 15-minute charge gets you 7 hours of battery life.
+
+Safety Check
+Feel more at ease when you're alone
+When out for a run or walking alone at night, set the timer. If it expires with no response, your watch will share your location with emergency contacts. With the 4G LTE watch, Safety Check will work even without your phone.
+
+Enhanced Fitness
+Reach your goals faster
+Pixel Watch 2 has the tools to help you get your best and most-efficient workout. Set a goal and get real-time feedback with Pace Training, plus track heart rate zones and get notified when you move from one zone to another with Heart Zone Training.
+
+Stress Management
+Check for signs of stress
+Get help identifying possible signs of stress. Tools like guided breathing sessions can help you manage stress in the moment. Look back on your day or week to discover patterns so you can adjust your routine to help manage future stress.
+
+Reasons you'll love this watch
+Help by Google. Health by Fitbit.
+Meet Google Pixel Watch 2, featuring an all-new multi-path HR sensor and Google AI for our most accurate heart rate tracking yet. Get more precise reads on your go-to metrics like calories burned and Active Zone Minutes, plus up to 40% more accurate heart rate tracking during vigorous activities like HIIT.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+*Google Pixel Watch
+
+Website page: 
+https://www.fitbit.com/global/us/products/smartwatches/google-pixel-watch?sku=GA03BKBK 
+DESIGNED EXCLUSIVELY FOR ANDROID
+Sub Description:Run your day, improve your health & fitness. The best of Google’s helpfulness meets Fitbit on this smartwatch built just for Android.¹
+
+Colors:
+Chalk / Polished Silver Stainless Steel
+Charcoal / Polished Silver Stainless Steel
+Hazel / Champagne Gold Aluminum
+Obsidian / Matte Black Aluminum
+
+
+Choose your connectivity
+Bluetooth® / Wi-Fi
+Keep phone close to manage texts & calls
+$279.99
+
+
+4G LTE + Bluetooth® / Wi-Fi
+Stay fully connected without phone nearby.²
+$329.99
+
+
+What's included:
+Google Pixel Watch
+Active band (small & large)
+USB-C® magnetic charging cable
+USB-C® is a trademark of USB Implementers Forum.
+Sensors & Components
+Compass
+Altimeter
+Premium haptic motor
+Optical heart rate sensor
+Accelerometer
+Gyroscope
+Ambient light sensor
+Built-in microphone
+Built-in speaker
+GPS + GLONASS
+Side button 
+Crown
+Multipurpose electrical sensors compatible with ECG app
+The ECG app is only available in select countries. Not intended for use by people under 22 years old. See here for additional details.
+Battery & Power
+All-day battery life. Battery life and charge cycles vary with use, settings and other factors; actual results will vary.
+Battery type: Lithium-ion
+Charge time (0-50%): 30 minutes
+Charge time (0-80%): 55 minutes
+Charge time (0-100%): 80 minutes
+Radio transceiver: Bluetooth® 5.0
+Memory
+Saves 7 days of detailed motion data, minute by minute
+Saves daily totals for the last 30 days
+Stores heart rate data at one-second intervals
+2GB RAM
+32GB
+Water Resistance
+Water resistant to 50m (5ATM).
+
+
+ 
+
+
+Google Pixel Watch is designed to comply with water protection ratings of 5 ATM under ISO standard 22810:2010 when manufactured, but it is not waterproof. Water resistance is not a permanent condition and decreases or is lost over time due to normal wear and tear, repair, disassembly or damage. Dropping your Google Pixel Watch may result in loss of water resistance. Google Pixel Watch is designed to be used in shallow water and should not be used for activities involving high-velocity or high-temperature water. Some accessory bands are not water-resistant. See here for details.
+Care
+See wear and care instructions here.
+Materials
+The Google Pixel Watch housing is made of stainless steel. The Google Pixel Watch active band is made of fluoroelastomer with soft-touch coating and fastens with a stainless steel clasp and lugs. Give your wrist a rest by taking the watch off every now and then.
+
+
+Heart Rate
+Like all heart rate tracking technologies, accuracy is affected by physiology, location of device and different movements.
+
+
+Environmental Requirements
+Operating temperature: 32° to 95°F
+Store watch between -4° and 113°F. Don't expose to temperatures above 113°F as this may damage it, overheat the battery or pose a risk of fire.
+Syncing
+To set up and use your Google Pixel Watch, you must have a Google account. Install the Google Pixel Watch app on a compatible device running Android 9 or newer. Some watch features may also require a Fitbit account and mobile app.
+See additional tips for Android phones and tablets here.
+The Bluetooth® word mark is a registered trademark owned by the Bluetooth SIG, Inc.
+Maximum battery life is approximate and is based on testing using pre-production hardware and software. Charging times are approximate. Use of certain features will decrease battery life.  Battery life depends on features enabled, usage, environment and many other factors. Actual battery life may be lower. 
+Syncing range: Up to 30ft
+Requires Android 9+
+Syncing requires Bluetooth® 5.0 or internet connection.
+4G LTE and UMTS
+Band Size
+Both small and large sizes included in box.
+Small
+Fits wrist 5.1" - 6.9" in circumference
+Large
+Fits wrist 6.5" - 8.3" in circumference
+Dimensions
+1.6" l x .48" h
+
+6 Months of Premium†
+Level up your health & fitness
+Fitbit Premium transforms your data into personalized insights. Level up your activity, dive deeper into your rest with Sleep Profile and find your calm with our most advanced tools. Your 6-month membership is included with purchase.†
+
+Compatible ECG App³
+Keep an eye on your heart
+Set up your Fitbit account to use the on-wrist ECG app and assess your heart for AFib—a heart rhythm irregularity—then share results with your doctor.³
+
+The Fitbit Way
+Insightful & delightful
+Improve your health & fitness with Fitbit's most accurate heart rate tracking yet. Try energizing workouts and manage stress by day, and track your sleep stages by night.⁷
+
+4G LTE Connectivity²
+Leave your phone at home
+Choose 4G LTE to get texts, calls and music on the go—even when your phone isn't nearby.² Or choose Bluetooth + Wi-Fi and keep your phone close to make the most of your watch.
+
+Google Smarts
+Helpful is an understatement
+Save time, get turn-by-turn directions, make payments and control your smart home with Google apps on your wrist.⁵
+Plus, get 3 months of YouTube Music Premium.⁶
+
+Help by Google. Health by Fitbit.
+Meet the watch built just for Android with Fitbit's most accurate heart rate tracking yet.
+
+Circular Design
+Hello, beautiful
+Domed, scratch-resistant Corning® Gorilla® Glass is just the beginning. Get expressive with customizable faces or easily switch bands.⁴
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+*Versa 4
+Website page: 
+https://www.fitbit.com/global/us/products/smartwatches/versa4?sku=523BKBK 
+Price: $199.95
+Sub Description:Get better results from your workout routine with this thin, lightweight fitness smartwatch.
+
+Colors:
+Waterfall Blue / Platinum Aluminum
+Black / Graphite Aluminum
+Pink Sand / Copper Rose Aluminum
+Beet Juice / Copper Rose Aluminum
+
+What's included:
+Fitbit Versa 4
+Classic band (small & large)
+Charging cable
+Sensors & Components
+Multi-path optical heart rate sensor
+Red and infrared sensors for oxygen saturation (SpO2) monitoring
+Altimeter
+3-axis accelerometer
+Ambient light sensor
+NFC
+Built-in GPS + GLONASS
+Vibration motor
+Speaker (75dB SPL @10cm)
+Microphone
+WiFi (deactivated, cannot be turned on)
+Device temperature sensor (skin temperature variation available in the Fitbit app)
+Battery & Power
+Battery life of 6+ days. Battery life and charge cycles vary with use, settings and other factors; actual results will vary. We recommend charging your tracker every few days to ensure you are always tracking.
+
+Battery type: Lithium-polymer
+Charge time (0-100%): Two hours
+Radio transceiver: Bluetooth® 5.0
+Memory
+Saves 7 days of detailed motion data, minute by minute
+Saves daily totals for the last 30 days
+Stores heart rate data at one-second intervals during exercise tracking and at five-second intervals all other times
+Water Resistant
+Water resistant to 50m. After getting the band wet, we recommend drying the band because, as with any wearable device, it's best for your skin if the band is clean and dry. Learn more.
+
+Materials
+This watch includes a band made of a flexible material similar to that used in many sports watches, as well as an aluminum watch case and buckle.
+
+Learn more about wear and care tips here.
+
+Heart Rate
+Like all heart rate tracking technologies, accuracy is affected by physiology, location of device and different movements.
+
+Environmental Requirements
+Operating temperature: -14° to 113°F
+
+Compatibility
+Google account will be required. See fitbit.com/devices.
+The Fitbit app is compatible with most popular phones. To set up and use your Fitbit products and services, you must install the Fitbit app on a compatible device running one of the following operating systems:
+
+Apple iOS 15 or higher.
+Android OS 10 or higher. See additional tips for Android phones here.
+Syncing
+Syncing range: Up to 30ft
+Certain features like smartphone notifications may require Android 10+. Check your device compatibility.
+Syncing requires Bluetooth® LE, an internet connection and location permissions granted on the phone
+Band Size
+Small
+Fits wrist 5.1" - 7" in circumference
+Large
+
+Fits wrist 6.5" - 8.6" in circumference
+Dimensions
+
+1.5in l x 1.5in w x 0.45in h
+Compare products
+Even more to love
+
+6 months of Premium*
+Level up your routine with Premium
+Boost your fitness with Fitbit Premium. Know what your body can do with a Daily Readiness Score, get pumped with energizing workouts led by expert trainers and more.
+
+Designed for Fitness
+Thin, comfortable & ready to sweat
+While you’re putting in the hard work, Versa 4 works to keep you comfortable during fitness & beyond with a thin, lightweight design. Plus, stay on top of your goals without slowing down by seeing your stats in the moment on a large display.
+
+Google Apps & More◆
+Navigate, pay & stay in touch all day
+Get turn-by-turn directions, pay on the go and save time with Google Maps and Google Wallet on your wrist. Plus, never miss a call, text or calendar alert and see app notifications at a glance. Available when phone is nearby.
+
+40+ Exercise Modes + GPS
+Track more workouts than ever & get all the credit
+Choose from strength training, kayaking and more with 40+ exercise modes and see your stats in the moment on your smartwatch. Plus, get real-time pace & distance during outdoor workouts—no phone necessary—with built-in GPS.
+
+Motivating Workouts**
+Get motivated to work out from anywhere
+Hit your goals with a growing collection of fresh partner workouts in Premium. Find videos for yoga, HIIT and everything in between from Fitbit and partners like LES MILLS, Aaptiv and more. Then, use Versa 4 to see your stats in real time.**
+
+Daily Readiness**
+Follow your body, not a schedule
+Planning a workout? Check your Daily Readiness Score to see if you’re up for a challenging workout or recovery day based on insights from your body, then get suggested workouts & a recommended daily Active Zone Minutes goal.**
+
+Get better results from your workout routine.
+Meet Versa 4 + Premium.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+TRACKERS
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ *Charge 6
+
+Website page: 
+https://www.fitbit.com/global/us/products/trackers/charge6?sku=431BKBK 
+Price: $159.95
+
+Sub Description:Boost your routine with our #1 fitness tracker. Now with our most accurate heart rate, plus Google essentials like Maps, Wallet and YouTube Music controls.³ ⁶ ¹¹
+
+Colors:
+Obsidian / Black Aluminum
+Porcelain / Silver Aluminum
+Coral / Champagne Gold Aluminum
+
+What's included:
+Fitbit Charge 6
+Infinity band (small & large)
+Charging cable
+Sensors & Components
+Optical heart rate monitor
+3-axis accelerometer
+Built-in GPS + GLONASS
+Red and infrared sensors for oxygen saturation (SpO2) monitoring.
+Not available in all countries. Not intended to diagnose or treat any medical condition or for any other medical purpose. Intended to help you manage your well-being and keep track of your information. Requires more frequent charging.
+Device temperature sensor (skin temperature variation available in the Fitbit app).
+Only available in the Fitbit app and only displays variation. Not available in all markets. Not intended for medical purposes. Significant changes in ambient temperature may negatively impact skin temperature tracking.
+Vibration motor
+Ambient light sensor
+NFC
+Multipurpose electrical sensors compatible with ECG app & EDA Scan app
+Battery & Power
+Battery life of up to 7 days. Use of the always-on display and SpO2 features will require more frequent charging. We recommend charging your tracker every few days to ensure you are always tracking.
+Average battery life is approximate and is based on testing conducted in California in mid 2023 on pre-production hardware and software, using default settings with a median Fitbit user battery usage profile across a mix of talk, data, standby, and use of other features. Battery life depends on features enabled, usage, environment and many other factors. Use of certain features will decrease battery life. Actual battery life may be lower.
+Battery type: Lithium-polymer
+Charge time (0-100%): Two hours
+Radio transceiver: Bluetooth
+Memory
+Saves 7 days of detailed motion data, minute by minute
+Saves daily totals for the last 30 days
+Stores heart rate data at 1 second intervals during exercise tracking and at 5 second intervals all other times
+Water Resistance
+Water resistant to 50 meters. After getting the band wet, we recommend drying the band because, as with any wearable device, it's best for your skin if the band is clean and dry.
+
+Charge 6 is designed to comply with a water protection rating of 5 ATM under ISO standard 22810:2010 when manufactured, but it is not waterproof. Water resistance is not a permanent condition and decreases or is lost over time due to normal wear and tear, repair, disassembly or damage. Dropping your Charge 6 may result in loss of water resistance. Charge 6 is designed to be used in shallow water and should not be used for activities involving water at high velocity or high temperature. Some Charge 6 bands are not water resistant. See here for details.
+
+Care
+Give your wrist a rest by taking the band off every now and then. If the band gets wet or you sweat in it, remove and completely dry the band before putting it back on. Learn more.
+
+Materials
+The Charge 6 housing is made of aluminum, glass and resin. The band is made of silicone and has an aluminum buckle.
+
+Heart Rate
+Like all heart rate tracking technologies, accuracy is affected by physiology, location of device and different movements.
+
+Environmental Requirements
+Operating temperature: 14° to 113°F
+Maximum operating altitude: 28,000ft
+Compatibility
+Google account will be required. See here for compatible devices. The Fitbit app is compatible with most popular phones. To set up and use your Fitbit products and services, you must install the Fitbit app on a compatible device running one of the following operating systems:
+
+Syncing range: Up to 30ft.
+
+Certain features like smartphone notifications may require Android 10+. Check your device compatibility.
+Syncing requires Bluetooth® LE, an internet connection and location permissions granted on the phone.
+Band Size
+Both small and large sizes included in box.
+
+Small: Fits wrist 5.1" - 6.7" in circumference
+
+Large: Fits wrist 6.7" - 8.3" in circumference
+
+Dimensions
+1.45" l x .91" w x .44" h
+Fitbit Premium**
+Know your body, nail your workout
+Choose from a library of workouts including HIIT, cycling, strength training, dance cardio & more led by Fitbit’s expert trainers. Check your Daily Readiness Score and see if you’re ready to go all out or take a rest day.
+
+Google Essentials⁶
+Keep your day moving
+Find your way seamlessly during runs or rides with turn-by-turn directions from Google Maps.²
+And when you need a snack break on the go, just tap to pay with Google Wallet.⁶ ⁷
+
+Advanced Health Tools
+Our most accurate heart rate on a tracker¹¹
+Get a read on your beat with up to 60% more accurate tracking during vigorous activities like HIIT, spinning and rowing.¹¹ ¹²
+Want to know more? The ECG app⁵ can notify you of heart rhythm irregularities, an EDA sensor tells you how your body is responding to stress. Plus, see how it all ties into your night with your Sleep Score.
+
+Fitness Motivation
+Move to your beat
+Choose your mood with YouTube Music controls² ³ and get inspired with over 40 exercise modes.
+Keep up with your body by tracking your heart rate, steps, distance and calories burned. Active Zone Minutes tell you how much time you spend in target heart rate zones.
+
+Heart Rate On Exercise Equipment¹
+See it on display
+See your heart rate in real-time when you link Charge 6 to your favorite compatible exercise machines—like treadmills, ellipticals, rowers, exercise bikes and more.¹
+
+Reasons to love Charge 6
+Our #1 tracker. Now with Google.
+Run your day & your routine with Charge 6.◆
+
+
+
+*Luxe
+
+Website page: 
+https://www.fitbit.com/global/us/products/trackers/luxe?sku=422GLPK 
+Price: $199.95
+
+Sub Description:Get two looks for your wellness journey—this bracelet designed by gorjana also comes with a peony classic band. Dress it up, switch it up.
+
+
+Colors:
+Special Edition gorjana Soft Gold Stainless Steel Parker Link Bracelet
+
+What's included:
+Fitbit Luxe
+Classic band (small & large)
+Charging cable
+What’s included in Special Edition:
+Fitbit Luxe
+Soft Gold Stainless Steel gorjana Parker Link Bracelet
+Peony classic band (small & large)
+Charging cable
+Sensors & Components
+3-axis accelerometer
+Optical heart rate monitor
+Vibration motor
+Device temperature sensor (skin temperature variation available in the Fitbit app)
+Red and infrared sensors for oxygen saturation (SpO2) monitoring
+Battery & Power
+Battery life of up to 5 days. Battery life and charge cycles vary with use, settings and other factors; actual results will vary. We recommend charging your tracker every few days to ensure you are always tracking.
+
+Battery type: Lithium-polymer
+Charge time (0-100%): Two hours
+Radio transceiver: Bluetooth® 
+Make sure there are no metal objects, such as jewelry, nearby as you charge. Unplug the charging cable after charging is complete.
+
+Memory
+Saves 7 days of detailed motion data, minute by minute
+Saves daily totals for past 30 days
+Stores heart rate data at one-second intervals during exercise tracking and at five-second intervals all other times
+Water Resistance
+Water resistant to 50m. After getting the band wet, we recommend drying the band because, as with any wearable device, it's best for your skin if the band is clean and dry. Learn more.
+
+ 
+
+Materials
+The Luxe housing is made of stainless steel. The Luxe band is made of a comfortable silicone (similar to that used in many sport watches) and fastens with an anodized metal buckle and tang. The special edition gorjana Parker Link Bracelet is made of stainless steel and comes with a peony silicone band.
+
+Learn more about wear and care tips here.
+
+Heart Rate
+Like all heart rate tracking technologies, accuracy is affected by physiology, location of device and different movements.
+
+Environmental Requirements
+Operating temperature: -20° to 45°C
+Compatibility
+Google account will be required. See fitbit.com/devices. The Fitbit app is compatible with most popular phones. To set up and use your Fitbit products and services, you must install the Fitbit app on a compatible device running one of the following operating systems:
+
+Apple iOS 15 or higher.
+Android OS 10 or higher. See additional tips for Android phones here.
+ 
+
+Syncing range: Up to 9m
+
+Certain features like smartphone notifications may require Android 10+. Check your device compatibility.
+Syncing requires Bluetooth® LE, an internet connection and location permissions granted on the phone.
+ 
+
+ 
+Band size
+Both small and large sizes included in box.
+
+Small: Fits wrist 5.1" - 7.5" in circumference
+
+Large: Fits wrist 6.3" - 8.6" in circumference
+
+Special Edition Link Bracelet One Size: Fits wrist 5.3" - 7.5" in circumference
+
+For information on how to resize your gorjana band click here.
+Dimensions
+36.30mm l x 17.62mm w x 10.05mm h
+
+Better with Premium
+Level up your fitness
+Fitbit Premium helps you get more out of your workouts with a Daily Readiness Score that lets you know what your body's capable of. Explore a library of energizing workouts, de-stress with mindfulness sessions and get motivated with content from leading fitness brands.◆
+
+Health Metrics Dashboard
+Tune in to your body
+Use the Fitbit app to uncover trends and changes in your well-being with health metrics like breathing rate, resting heart rate, heart rate variability, skin temperature and SpO2.***
+
+Fitness & Activity
+Level up your workouts
+With 24/7 heart rate tracking and Active Zone Minutes, you'll know how hard your heart is working at any time. Plus with Daily Readiness Score, Premium members can see how the work they put in impacts their readiness to work out today.§
+
+Sleep Tools
+Restful nights for energized days
+Check your Sleep Score and sleep stages each morning to understand your sleep quality, and get tips on how to improve your rest so you can bring more energy to every day.
+
+Stress Management
+Build the skills to manage stress
+Get a daily Stress Management Score to understand how your body’s handling stress—then find calm with on-wrist guided breathing sessions and track your Mindful Minutes in the Fitbit app.
+
+Jewelry Design
+The must-have wardrobe essential
+With a slim design, polished stainless steel casing and bracelet-like accessories, Luxe is the timeless piece that complements every outfit in your wardrobe.
+
+Fitness & wellness goes fashion-forward.
+Meet Fitbit Luxe.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+*Inspire 3
+
+Website page: 
+https://www.fitbit.com/global/us/products/trackers/inspire3?sku=424BKBK 
+Price: $99.95
+
+Sub Description: Meet Fitbit Inspire 3™—the health & fitness tracker that helps you do what you love and feel your best. All you have to do is wear it.
+
+Colors:
+Midnight Zen / Black
+Lilac Bliss / Black
+Morning Glow / Black
+
+
+What's included:
+Fitbit Inspire 3
+Classic wristband (both small & large)
+Charging cable
+Memory
+Saves 7 days of detailed motion data, minute by minute
+Saves daily totals for past 30 days
+Stores heart rate data at 1-second intervals during exercise tracking and at 5-second intervals all other times
+Materials
+The Inspire 3 band is made of a premium, comfortable silicone (similar to that used in many sport watches) and fastens with a plastic buckle and tang.
+
+Compatibility
+Google account will be required. See fitbit.com/devices.
+The Fitbit app is compatible with most popular phones. To set up and use your Fitbit products and services, you must install the Fitbit app on a compatible device running one of the following operating systems:
+
+Apple iOS 15 or higher.
+Android OS 10 or higher. Android users can set up Inspire 3 faster with Google Fast Pair. See additional tips for Android phones here.
+Syncing range: Up to 30ft
+Certain features like smartphone notifications may require Android 10 +. Check your device compatibility.
+Syncing requires Bluetooth® LE and internet connection.
+Sensors & Components
+3-axis accelerometer
+Optical heart rate monitor
+Vibration motor
+Red and infrared sensors for blood oxygen (SpO2) monitoring
+Ambient light sensor
+Water Resistance
+Swimproof (water resistant to 50 meters). After getting the band wet, we recommend drying the band because, as with any wearable device, it's best for your skin if the band is clean and dry. Learn more.
+
+Heart Rate
+Like all heart rate tracking technologies, accuracy is affected by physiology, location of device and different movements.
+
+Band Size
+Print this guide to find the right size for you. Both small and large sizes included in box.
+
+Small
+
+Fits wrist 5.1" - 7.5" in circumference
+
+Large
+
+Fits wrist 6.3" - 8.7" in circumference
+
+Dimensions
+1.55" l x .73" w x .46" h
+
+Battery & Power
+Battery life of up to 10 days. Battery life and charge cycles vary with use, settings and other factors; actual results will vary. We recommend charging your tracker every few days to ensure you are always tracking.
+
+Battery type: Lithium-polymer
+Charge time (0-100%): Two hours
+Radio transceiver: Bluetooth®
+Care
+Give your wrist a rest by taking the band off every now and then. If the band gets wet or you sweat in it, remove and completely dry the band before putting it back on. Learn more.
+
+Environmental Requirements
+Operating temperature: 32° to 104°F
+Maximum operating altitude: 28,000 ft
+Fitbit Premium
+Boost your moves
+Bonus: Inspire 3 includes 6 months of Fitbit Premium. Get the most out of your movement with a Daily Readiness Score that tells you what your body's capable of. Plus, check out a library of energizing workouts, mindfulness sessions and content from leading fitness brands.†
+
+Wear all day
+Light as air
+That's how it feels to wear this slim, smooth silicone band.
+
+Stay on top
+Keep an eye on your well-being
+The Fitbit app is like a control panel for your body. By watching for changes in your resting heart rate, blood oxygen, skin temperature & more, you can get to know your body and do what’s best for it.²
+
+Sleep better
+Tired of being tired?
+Better energy starts with better rest. Track your Sleep Score, light, deep & REM sleep, sleeping heart rate and how consistent your schedule is.
+
+Stress less
+Just breathe it out
+Everyone feels stress—how you respond to it makes the difference. Stress Management Score and guided breathing sessions can teach you healthier ways to handle it all.
+
+Move more
+Do what you love
+The best exercise is the one you love. Active Zone Minutes tracks your heart rate so you know when you’re in fat burn, cardio or peak zones and can adjust your effort to match your goals.
+
+All you have to do is wear it.
+Find your energy & feel your best with Fitbit Inspire 3.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+*Ace 3
+
+Website page: 
+https://www.fitbit.com/global/us/products/trackers/ace3?sku=419BKRD 
+Price: $79.95
+
+Sub Description:Up to 8 day battery life*
+This activity tracker for kids 6+ makes fitness fun for the whole family with long-lasting battery.
+
+Colors:
+Black / Sport Red
+
+What's included:
+Fitbit Ace 3TM
+Classic wristband (one size)
+Charging cable
+What’s included in Ace 3 Special Edition: Minions
+Fitbit Ace 3TM
+Special Edition: Minions Yellow wristband (one size)
+Charging cable
+Sensors & Components
+3-axis accelerometer
+Vibration motor
+Ace 3 includes sensors for heart rate tracking; they are deactivated and cannot be turned on
+Display
+Touchscreen
+PMOLED Display
+Battery and Power
+Ace 3 has up to 8 days of battery. Battery life and charge cycles vary with use, settings and other factors; actual results will vary. We recommend charging your tracker every few days to ensure you are always tracking.
+
+Battery type: Lithium-polymer
+Charge time (0-100%): Two hours
+Radio transceiver: Bluetooth
+Memory
+Saves 7 days of detailed motion data – minute by minute
+Saves daily totals for past 30 days
+Water Resistance
+Ace 3 is swimproof, meaning it's water resistant to 50 meters. After kids go swimming or get the band wet, take the tracker off and dry the band off in order to keep the band clean and dry. See here for more details.
+
+Materials
+The Ace 3 band is made of a flexible silicone similar to that used in many sport watches and includes a plastic buckle. Learn more about wear and care tips here.
+
+Environmental Requirements
+Operating temperature: 14° to 113°F
+Maximum operating altitude: 28,000 feet
+Compatibility
+Google account will be required. See fitbit.com/devices.
+The Fitbit app is compatible with most popular phones. To set up and use your Fitbit products and services, you must install the Fitbit app on a compatible device running one of the following operating systems:
+
+Apple iOS 15 or higher.
+Android OS 10 or higher. See additional tips for Android phones here.
+Syncing range: Up to 30ft
+Certain features like smartphone notifications may require Android 10+. Check your device compatibility.
+Syncing requires Bluetooth LE and Internet connection.
+Band Size
+One size: Fits wrist 4.6" - 6.9" in circumference
+
+Device Dimensions
+1.47" l x .66" w x .5" h
+Even more to love0
+
+-
+
+Always ready for playtime Designed with kids in mind, Fitbit Ace 3 was built for up, down, all-around action with a comfortable silicone band and secure adjustable clasp.
+
+Battery life that outlasts the week Kids can run, swim and play all week long with up to 8 days of battery.*
+
+Build healthy habits with fun-filled activity With virtual badges and animated clock faces, kids have all the incentive they need to move, while all-day activity tracking adds up the day's action.
+
+Open up a world of adventure with this activity tracker for kids 6+.
+
+ZZZs are the fuel kids need Restful nights give kids energy to move, so help them get their sleep with sleep tracking, bedtime reminders and silent alarms.**
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
